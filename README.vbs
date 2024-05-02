@@ -29,3 +29,6 @@ end
  
 Saber simulator
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/arcadie69/Basketball-Legends/main/script"))() 
+
+Basketball legends
