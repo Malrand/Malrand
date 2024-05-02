@@ -32,3 +32,7 @@ Saber simulator
 loadstring(game:HttpGet("https://raw.githubusercontent.com/arcadie69/Basketball-Legends/main/script"))() 
 
 Basketball legends
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Loader.lua"))()
+
+Legends of speed
