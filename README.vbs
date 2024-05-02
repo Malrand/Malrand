@@ -34,10 +34,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/arcadie69/Basketball-
 Basketball legends
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Loader.lua"))()
-(pass: omenfree)
+
 
 Legends of speed
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/mezzopera/Omen-Hub/main/omen_hub.lua"))()
+(pass: omenfree)
 
 Blade ball / Da hood
