@@ -36,3 +36,7 @@ Basketball legends
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Loader.lua"))()
 
 Legends of speed
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mezzopera/Omen-Hub/main/omen_hub.lua"))()
+
+Blade ball / Da hood
